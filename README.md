@@ -25,3 +25,5 @@ git merge
 Learning md syntax (02.06.23)
 
 git revert
+git reset  
+git rebase
