@@ -1,3 +1,3 @@
 # gitlearn
 
-Hellow, develop branch!
+Hello, develop branch!
